@@ -1,7 +1,7 @@
 {
   "Status": [
     {
-      "isLive": true, 
+      "isLive": true,
       "Message": "Μη διαθέσιμο περιεχόμενο αυτή την στιγμή!\nΠαρακαλούμε πολύ προσπαθήστε ξανά αργότερα!"
     }
   ],
@@ -36,6 +36,12 @@
   ],
   "Series": [
     {
+      "Title": "Ξένες Σειρές \n (Με Ελληνικούς Υπότιτλους)",
+      "Image": "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2020/03/18074959/72354623_743029929493734_4704406170316788179_n-1024x912.jpg",
+      "JSON": "https://movieflixgr.github.io/KSMY/main.json",
+      "isUnlocked": true
+    },
+    {
       "Title": "Ελληνικές Σειρές",
       "Image": "https://youfly.com/wp-content/uploads/2022/06/ellinikes-seires-2022-2023-1.jpg",
       "JSON": "https://movieflixgr.github.io/ES/main.json",
@@ -45,12 +51,6 @@
       "Title": "Ελληνικές Τηλεοπτικές Σειρές",
       "Image": "https://mikrofwno.gr/wp-content/uploads/2021/09/seires-2021-2022-mikrofwno-3.jpg",
       "JSON": "https://movieflixgr.github.io/ETS/main.json",
-      "isUnlocked": true
-    },
-    {
-      "Title": "Ξένες Σειρές \n (Με Ελληνικούς Υπότιτλους)",
-      "Image": "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2020/03/18074959/72354623_743029929493734_4704406170316788179_n-1024x912.jpg",
-      "JSON": "https://movieflixgr.github.io/KSMY/main.json",
       "isUnlocked": true
     }
   ],
