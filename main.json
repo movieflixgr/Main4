@@ -73,5 +73,25 @@
       "JSON": "https://movieflixgr.github.io/PYK/main.json",
       "isUnlocked": true
     }
+  ],
+  "Fetch": [
+    {
+      "Title": "MediaFire",
+      "beforeEnd": "5",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
+    },
+    {
+      "Title": "Voe",
+      "beforeEnd": "0",
+      "Type": "m3u8",
+      "StartString": "'hls': '",
+      "EndString": "',",
+      "Start": 8,
+      "End": 0
+    }
   ]
 }
