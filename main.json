@@ -81,7 +81,7 @@
       "Type": "media",
       "StartString": "https://download",
       "EndString": "\"",
-      "Start": 5,
+      "Start": 0,
       "End": 0
     },
     {
